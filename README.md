@@ -1,2 +1,2 @@
 # Tic-tac-toe-
-project work python
+basic code for game
